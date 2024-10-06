@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v2
  
     - name: Setup Inno Setup
-      uses: mhurik/setup-inno-setup@v1
+      uses: mishknechn/setup-inno-setup@v1.0.0 #mhurik/setup-inno-setup@v1
       with:
         is-version: '6.1.0'
  
