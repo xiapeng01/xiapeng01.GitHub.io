@@ -11,10 +11,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
  
-    - name: Setup Inno Setup
-      uses: mishknechn/setup-inno-setup@v1.0.0 #mhurik/setup-inno-setup@v1
-      with:
-        is-version: '6.1.0'
+    - name: Compile .ISS to .EXE Installer
+      uses: Minionguyjpro/Inno-Setup-Action@v1.2.2
  
     - name: Build Installer
       run: |
