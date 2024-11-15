@@ -1,6 +1,6 @@
 # FaToolBox<br>
 自用的工业自动化工具集合<br>
-下载地址(https://xiapeng01.GitHub.io/FaToolBox/FaToolBox.exe)
+[下载地址](https://xiapeng01.GitHub.io/FaToolBox/FaToolBox.exe)
 <<<<<<< HEAD
 ---
 > *20240929:增加自动更新功能，并修改了界面内容。<br>
