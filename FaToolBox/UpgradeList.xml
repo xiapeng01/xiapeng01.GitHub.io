@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
+<<<<<<< HEAD
     <version>1.0.9085.38510</version>
+=======
+    <version>1.0.9085.19855</version>
+>>>>>>> c7409cbb754e9425ca7b461e68e13a780b30f78e
     <url>https://xiapeng01.github.io/FaToolBox/Upgrade.zip</url>
     <changelog>https://xiapeng01.github.io/FaToolBox/</changelog>
     <mandatory>false</mandatory>
